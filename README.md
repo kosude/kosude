@@ -5,11 +5,12 @@
 
 ---
 
-[Top 10 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosude&langs_count=10)
-
----
-
+**[Top 10 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosude&langs_count=10)**
+•
 <a href="https://stackoverflow.com/users/12980669">
     <img height=13 src="media/stackoverflow.svg">
     <b>StackOverflow profile</b>
 </a>
+
+---
+
