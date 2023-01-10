@@ -4,7 +4,9 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=kosude&theme=github_dark&border_color=30363d"/>
 
 ---
----
+
+[Top 10 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosude&langs_count=10)
+
 ---
 
 <a href="https://stackoverflow.com/users/12980669">
