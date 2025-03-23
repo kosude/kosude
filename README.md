@@ -1,4 +1,9 @@
-### `github.com/kosude` // jack bennett
+> [!IMPORTANT]  
+> **New projects, and updates to existing projects, are on [GitLab](https://gitlab.com/kosude)!**
+
+---
+
+### (OUTDATED) `github.com/kosude` // jack bennett
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kosude&langs_count=5&theme=github_dark&border_color=30363d">
