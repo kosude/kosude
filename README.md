@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> **New projects, and updates to existing projects, are on [GitLab](https://gitlab.com/kosude)!**
+> **New projects, and updates to existing projects, are on [GitLab](https://gitlab.com/kosude).**
 
 ---
 
