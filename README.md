@@ -1,9 +1,9 @@
 > [!IMPORTANT]  
-> **New projects, and updates to existing projects, are on [GitLab](https://gitlab.com/kosude).**
+> **New work is on [GitLab](https://gitlab.com/kosude) (some of my main projects are also mirrored onto this profile).**
 
 ---
 
-### (OUTDATED) `github.com/kosude` // jack bennett
+### `github.com/kosude` // jack bennett
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kosude&langs_count=5&theme=github_dark&border_color=30363d">
